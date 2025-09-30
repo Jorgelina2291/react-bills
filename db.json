@@ -1,0 +1,29 @@
+{
+  "cuentas": [
+    {
+      "id": "3",
+      "nombre": "Louis",
+      "monto": 700,
+      "estado": "pending"
+    },
+    {
+      "id": "4",
+      "nombre": "Martha",
+      "monto": 200,
+      "estado": "pending"
+    },
+    {
+      "id": "5",
+      "nombre": "Henry",
+      "monto": 400,
+      "estado": "pending"
+    },
+    {
+      "id": "2a78",
+      "nombre": "James",
+      "monto": 50,
+      "estado": "paid",
+      "createdAt": "2025-09-30T16:11:45.053Z"
+    }
+  ]
+}
